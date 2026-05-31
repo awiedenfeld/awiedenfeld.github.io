@@ -1,0 +1,13 @@
+---
+title: "Amy Wiedenfeld"
+image: media/Photo3.jpg
+about:
+  template: broadside
+  image-width: 20em
+  links:
+    - icon: envelope-at
+      text: Email
+      href: mailto:amy.wiedenfeld@uleth.ca
+---
+
+I am a Ph.D. candidate in Biosystems and Biodiversity at the University of Lethbridge. I am studying the population dynamics of several at-risk plant species in the Carolinian forest in southern Ontario. I am using integral projection models to understand the demographics of these species, and am testing the use of integrated population models for modelling at-risk plant species for cases when data collection across years is inconsistent. In addition to my research, my fellowship has provided the opportunity to practice and improve my scientific communication skills and gaining a deeper understand of conservation science.
